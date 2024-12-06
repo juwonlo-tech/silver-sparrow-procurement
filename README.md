@@ -40,7 +40,7 @@ This page provides deeper analytical insights into procurement data for strategi
 
 #### **Key Features**:
 1. **Q&A Integration**:  
-   - Users can ask natural-language questions about the data (e.g., *"maximum PO amount"* or *"number of purchase officers"*), enabling intuitive exploration of procurement metrics.
+   - Users can ask natural-language questions about the data (e.g., *"maximum PO amount"* or *" number of purchase officers"*), enabling intuitive exploration of procurement metrics.
 
 2. **Key Influencers and Top Segments Analysis**:  
    - Identifies factors influencing procurement order (PO) amounts.
